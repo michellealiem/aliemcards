@@ -7,6 +7,7 @@ created: 2012/06/29
 updates: null
 categories:
     - Trauma
+    - Cardiovascular
 drugs: null
 
 ---
@@ -16,7 +17,8 @@ drugs: null
 # Blunt Cardiac Injury
 
 *Definition:* Encompasses wide spectrum of clinical injuries, ranging from asymptomatic myocardial bruise to cardiac rupture/death 
-**No gold standard** 
+
+
 **Pearls:**
 
 -   Causes 20% of all deaths due to motor vehicle collisions
@@ -28,7 +30,9 @@ drugs: null
 -   Consider BCI in hemodynamically unstable patients without alternative cause
 -   Troponin I and T lack adequate sensitivity as screening test  
 
-Suggested algorithm, based on available evidence:![](image-1.png)
+![](image-1.png)
+
+Suggested algorithm for evaluation of blunt cardiac injury, based on available evidence
 
 ## References
 

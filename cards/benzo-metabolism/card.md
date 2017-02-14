@@ -14,11 +14,12 @@ drugs: 'lorazepam, oxazepam, temazepam, clonazepam, midazolam, diazepam'
 
 
 
-# Benzodiazepines Metabolism by the Liver
+# Benzodiazepine Metabolism by the Liver
 
 **Take Home Point**
 
 -   **ALL benzodiazepines are metabolized by the liver. **Some are just metabolized by different pathways that are less dependent on global liver function.
+
 - The ‘LOT’ drugs are those metabolized mostly by conjugation.
   - **L** – **<span class="drug">Lorazepam</span>** 
   - **O** –** <span class="drug">Oxazepam</span>**

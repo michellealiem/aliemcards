@@ -15,9 +15,10 @@ drugs: 'Valacylovir, Acyclovir, Prednisone'
 
 # Bell's Palsy: Treatment
 
-**Treatment**
+##Treatment
 
 - Corticosteroids, if onset within 72 hours
+
 - **<span class="drug">Prednisone</span>** 60 daily x 1 week. May consider taper for days \#8-10
   - 1 in 11 were helped to complete recovery - [NNT.com](http://www.thennt.com/nnt/steroids-for-bells-palsy/) 
 - <span class="drug">Artificial tears</span> in daytime and lubricating eye ointment at night to prevent corneal drying and exposure. 
@@ -30,12 +31,12 @@ Controversial benefit of antivirals (at most risk difference of 7%):
 - **<span class="drug">Valacylovir**</span> 1000 mg TID or **<span class="drug">Acyclovir**</span> 400 mg 5x daily x 1 week
 - Also prescribe <span class="drug">corticosteroids</span>, if antivirals given.
 
-
-
 ## House-Brackmann grading for severity of facial nerve weakness
+
 
 | Grade | Dysfunction | Gross weakness | At rest | Motion |
 |:-----:|:--------:|--------|--------|--------|
+
 | I      | None              | No weakness | No weakness       | Normal function all groups |
 | II     | Mild              | Slight weakness noticeable on close inspection. May have very slight synkinesis  | Normal symmetry and tone | **Forehead**: Moderate-to-good function  **Mouth**: Slight asymmetry   |
 | III    | Moderate          | Obvious but not disfiguring difference; noticeable but not severe synkinesis, contracture, and/or hemifacial spasm | Normal symmetry and tone | **Forehead**: Slight-to-moderate movement  **Mouth**: Slightly weak with maximum effort   |

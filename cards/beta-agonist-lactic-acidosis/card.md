@@ -17,6 +17,8 @@ drugs: null
 
 # Beta Agonist Therapy and Lactic Acidosis in Asthma
 
+## DELETE
+
 **Is the rise in lactate expected following beta-agonist therapy? Is it significant?**
 
 **Main points**
