@@ -14,15 +14,16 @@ drugs: null
 
 
 
-# Blunt Cardiac Injury
+# Blunt Cardiac Injury (BCI)
 
 *Definition:* Encompasses wide spectrum of clinical injuries, ranging from asymptomatic myocardial bruise to cardiac rupture/death 
 
+No gold standard
 
 **Pearls:**
 
 -   Causes 20% of all deaths due to motor vehicle collisions
--   Most commonly injured chamber = right ventricle (most anterior in chest) 
+-   Most commonly injured chamber: Right ventricle (most anterior in chest) 
 
 **Clinical tips:**
 
@@ -30,9 +31,7 @@ drugs: null
 -   Consider BCI in hemodynamically unstable patients without alternative cause
 -   Troponin I and T lack adequate sensitivity as screening test  
 
-![](image-1.png)
-
-Suggested algorithm for evaluation of blunt cardiac injury, based on available evidence
+Suggested algorithm, based on available evidence:![](image-1.png)
 
 ## References
 
