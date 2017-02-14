@@ -27,7 +27,7 @@ drugs: null
 
 |     | Positive LR | Negative LR |
 |-----|-------------|-------------|
-| Coastal Margin Tenderness | 1.4 \[1.3-1.7\] | 0.74 \[0.66-0.84\] |
+| Coastal margin tenderness | 1.4 \[1.3-1.7\] | 0.74 \[0.66-0.84\] |
 | Abdominal tenderness on exam | 1.4 \[1.3-1.5\] | 0.61 \[0.46-0.80\] |
 | Abdominal pain complaint | 1.6 \[1.3-2.0\] | 0.52 \[0.34-0.79\] |
 | Abdominal guarding | 3.7 \[2.3-5.9\] | 0.80 \[0.70-0.91\] |
@@ -58,6 +58,8 @@ drugs: null
 | Abdominal pelvic Xray | 1.6 \[0.78-3.4\] | 0.96 \[0.90-1.0\] |
 | Abdominal pelvic Xray | 2.5-3.8 | 0.70-0.96 |
 | FAST ultrasound | 30 \[20-46\]  | 0.26 \[0.19-0.34\] |
+
+MVC = motor vehicle collision
 
 ## References
 

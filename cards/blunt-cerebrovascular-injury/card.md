@@ -7,6 +7,7 @@ created: 2011/07/01
 updates: null
 categories:
     - Trauma
+    - Neurology
 drugs: 'heparin, aspirin'
 
 ---
@@ -17,8 +18,8 @@ drugs: 'heparin, aspirin'
 
 **Classic mechanisms of injury**
 
--   **Carotid artery injury (CAI)**: Hyperextension of neck resulting in stretching of carotid artery over lateral processes of C1-C3.
--   **Vertebral artery injury (VAI)**: Fracture through transverse process of C-spine, or hyperextension-stretch injury.
+-   **Carotid artery injury (CAI)**: Hyperextension of neck resulting in stretching of carotid artery over lateral processes of C1-C3
+-   **Vertebral artery injury (VAI)**: Fracture through transverse process of C-spine, or hyperextension-stretch injury
 
 **Treatment**
 
@@ -36,8 +37,9 @@ drugs: 'heparin, aspirin'
 -   CVA on CT or MRI 
 
 **Risk factors for BCVI**
+
 -   LeFort II or III facial fracture
--   C-spine fracture patterns: subluxation, fx extending into transverse foramen, fx of C1-C3
+-   C-spine fracture patterns: subluxation, fx extending into transverse foramen, any fracture in C1-C3
 -   Basilar skull fracture with carotid canal involvement
 -   Petrous bone fracture
 -   Diffuse axonal injury with GCS &lt; 6
@@ -46,22 +48,22 @@ drugs: 'heparin, aspirin'
 
 ## Imaging Choice
 
--   **Gold standard** = digital subtraction angiography
--   **Accepted first-line imaging **** = CT angiography (at least 16-slice scanner)
--   Alternative = MRI (does not need contrast), may be less sensitive and less specific than CT
+-   **Gold standard:** Digital subtraction angiography
+-   **Accepted first-line imaging:** CT angiography (at least 16-slice scanner)
+-   **Alternative imaging:** MRI (does not need contrast); may be less sensitive and specific than CT
 -   NOTE: A simple seat-belt sign along the neck does not warrant a CT angiogram. Patients with higher risk findings such as significant pain, tenderness, swelling, and/or a bruit may need imaging.
 
 ## BCVI Grading and Incidence of CVA complication
 
-| Grade | Definition  | CVA Rate Carotid   | CVA Rate Vertebral |
-|-------|-------------|--------------------|--------------------|
+| Grade | Definition  | CVA Rate: Carotid   | CVA Rate: Vertebral |
+|:-------:|-------------|:-------------:|:--------:|
 | **1**     | Irregularity of vessel wall, or dissection/intramural hematoma with &lt; 25%luminal stenosis                               | 3%            | 6%             |
 | **2**     | Intraluminal thrombus or raised intimal flap is visualized, or dissection/intramural hematoma with ≥ 25% luminal narrowing | 14%           | 38%            |
 | **3**     | Pseudoaneurysm                                                                                                             | 26%           | 27%            |
 | **4**     | Vessel occlusion                                                                                                           | 50%           | 28%            |
 | **5**     | Vessel transection                                                                                                         | 100%          | 100%           |
 
-Risk of undiagnosed BVCI = delayed CVA (occurring hours to 14 years later) 
+- Risk of undiagnosed BVCI: Delayed CVA (occurring hours to 14 years later) 
 -   Majority develop CVA symptoms in 10-72 hours
 
 ## References
